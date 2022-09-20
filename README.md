@@ -2,7 +2,7 @@
 
 我是 siyun 的搭建者和主要维护者, 目前正在求学中, 同样的我对自身专业外感兴趣的其他事或物也同样热衷.
 
-我所擅长的语言为HTML&amp;JavaScript;常用的System OS是 win, Linux（deb系的Ubuntu与Debian以及其他发行版）, 会基础的C++&amp;C#在未来希望更加深入学习的是 C++&amp;C# 以及Python,使用 VS Code 作为C++&amp;C#日常的工作器材,使用IJ作为Python暂时的工作工具.
+我所擅长的语言为HTML&JavaScript;常用的System OS是 win, Linux（deb系的Ubuntu与Debian以及其他发行版）, 会基础的C++&amp;C#在未来希望更加深入学习的是 C++&amp;C# 以及Python,使用 VS Code 作为C++&C#日常的工作器材,使用IJ作为Python暂时的工作工具.
 
 当然, 作为一名普通的在校学生, 我所能用于自身兴趣&amp;爱好方面的时间正随着日程一步步缩短, 迫于当下的各种因素我或许会没有更多的冗余时间发展亦或者维护自己的兴趣爱好以及.
 
@@ -16,4 +16,4 @@
 
 我个人非常喜欢各类科幻作品, 而且我个人比较主张使用最适合的方式解决问题.
 
-最后就这样吧,我觉得这篇自我描述Readme可以结尾了.
+最后就这样吧,我觉得这篇Readme可以结尾了.
