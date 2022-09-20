@@ -1,6 +1,6 @@
-你好, 这里是我的 Github Website, 我是 biri, 仅仅是一名默默无闻的小开发者、Geek、IT&amp;SD爱好者而已.
+各位大佬！你们好, 这里是我的 Github Website, 我是 biri, 仅仅是一名默默无闻的小开发者、Geek、IT&amp;SD爱好者而已.
 
-我是 siyun 的搭建者和主要维护者, 目前正在求学中, 同样的我对自身感兴趣的其他事或物也同样热衷.
+我是 siyun 的搭建者和主要维护者, 目前正在求学中, 同样的我对自身专业外感兴趣的其他事或物也同样热衷.
 
 我所擅长的语言为HTML&amp;JavaScript;常用的System OS是 win, Linux（deb系的Ubuntu与Debian以及其他发行版）, 会基础的C++&amp;C#在未来希望更加深入学习的是 C++&amp;C# 以及Python,使用 VS Code 作为C++&amp;C#日常的工作器材,使用IJ作为Python暂时的工作工具.
 
