@@ -12,8 +12,8 @@
 
 同样的, 我也是一位次文化爱好者, 我有接触过 东方 Project, 或者是 Vocaloid(like Miku or SV)等一系列与之相关的文化（引起了我的注意亦或者引起了我的兴趣）, 但我至今没有创造过与之相关的任何作品(甚至是"糟糕"的作品也没有),如果有足够充裕的时间与精力我会考虑为此创作相关作品.
 
-我在虚拟化容器方面一般使用 Docker , 因为Docker是我自己接触存储File Server的第一个虚拟扩展容器.
+我在虚拟化容器方面一般使用 Docker , 因为Docker是我接触File Server的第一个虚拟扩展容器,例如Docker在 Synology Unraid  QNAP TerraMaster等都有相关的扩展应用,在Server中虚拟化的应用我更多选择ESXI.
 
-我个人非常喜欢各类科幻作品, 而且我个人比较主张使用最适合的方式解决问题.
+我个人非常喜欢各类科幻作品也喜欢一些名言列如“Make time for life, or life won’t make time.”以及“The knowledge learned should be passed on to others.”, 而且我个人比较主张使用最适合的方式解决问题.
 
 最后就这样吧,我觉得这篇Readme可以结尾了.
