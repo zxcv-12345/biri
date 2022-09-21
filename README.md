@@ -18,7 +18,7 @@
 
 最后就这样吧,我觉得这篇Readme可以结尾了.
 
-👉以下是使用中的各大Operating System👈
+👉以下是使用中的Operating System👈
 
 ## 💻 Working environment
 [![Windows 11](https://img.shields.io/badge/Windows%2011-00adef?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/zh-cn/windows/windows-11)
