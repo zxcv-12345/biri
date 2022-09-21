@@ -33,5 +33,4 @@
 
 ## 📱 Devices in use
 [![Apple iPhone13](https://img.shields.io/badge/Apple%20iPhone%2013-fd5355?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com.cn/iphone-13/)
-[![Blackberry](https://img.shields.io/badge/Blackberry%209000-adse58?style=flat-square&logo=Blackberry&logoColor=ffffff)](https://github.com/xiangfeidexiaohuo)
 [![Android 12 Phone](https://img.shields.io/badge/Android%2012-6ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.android.com/android-12/)
