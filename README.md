@@ -27,7 +27,7 @@
 [![iOS 16](https://img.shields.io/badge/iOS%2015-4f4f4f?style=flat-square&logo=ios&logoColor=ffffff)](https://www.apple.com/ios/ios-15/)
 [![Android 12](https://img.shields.io/badge/Android%2012-6ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.android.com/android-12/)
 
-## 🔧 File server&Experiment environment
+## 🔧 Personal server&Experiment environment
 [![PVE](https://img.shields.io/badge/Proxmox%20VE%207.2-f12354?style=flat-square&logo=proxmox&logoColor=ffffff)](https://pve.proxmox.com/wiki/Main_Page)
 [![DSM7](https://img.shields.io/badge/DSM%207.1-b54bbf?style=flat-square&logo=Synology&logoColor=ffffff)](https://www.synology.cn/zh-cn/DSM71)
 
