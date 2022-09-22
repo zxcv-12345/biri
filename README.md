@@ -28,7 +28,7 @@
 [![Android 12](https://img.shields.io/badge/Android%2012-6ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.android.com/android-12/)
 
 ## 🔧 Personal server&Experiment environment
-[![Windows Server](https://img.shields.io/badge/-Windows%20server-blue?logo=data:image/png;base64#4D4D4D)](https://www.microsoft.com/zh-cn/windows/windows-11)
+[![Windows Server](https://img.shields.io/badge/-Windows%20server-blue?logo=Windows%Terminal)](https://www.microsoft.com/zh-cn/windows/windows-11)
 [![PVE](https://img.shields.io/badge/Proxmox%20VE%207.2-f12354?style=flat-square&logo=proxmox&logoColor=ffffff)](https://pve.proxmox.com/wiki/Main_Page)
 [![DSM7](https://img.shields.io/badge/DSM%207.1-b54bbf?style=flat-square&logo=Synology&logoColor=ffffff)](https://www.synology.cn/zh-cn/DSM71)
 
