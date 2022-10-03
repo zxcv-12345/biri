@@ -10,7 +10,7 @@
 
 相对的, 我在也是一名热爱音乐游戏这门games的玩家, 从初中开始我已经从最开始的“节奏大师”到现在的“Phigros”、“Arcaea”、“Cytoid”以及PC端的“A Dance of Fire and Ice”和PlayStation的“Hatsune Miku Project Diva”, 我虽然玩什么都玩的不太好, 所以我对让自己攻克高难并无多大期望.
 
-同样的, 我也是一位次文化爱好者, 我有接触过 东方 Project, 或者是 Vocaloid(like Miku or SV)等一系列与之相关的文化（引起了我的注意亦或者引起了我的兴趣）, 但我至今没有创造过与之相关的任何作品(甚至是"糟糕"的作品也没有),如果有足够充裕的时间与精力我会考虑为此创作相关作品.
+~~同样的, 我也是一位次文化爱好者, 我有接触过 东方 Project, 或者是 Vocaloid(like Miku or SV)等一系列与之相关的文化（引起了我的注意亦或者引起了我的兴趣）, 但我至今没有创造过与之相关的任何作品(甚至是"糟糕"的作品也没有),如果有足够充裕的时间与精力我会考虑为此创作相关作品.
 
 我在虚拟化容器方面一般使用 Docker , 因为Docker是我接触File Server的第一个虚拟扩展容器,例如Docker在 Synology Unraid  QNAP TerraMaster等都有相关的扩展应用,在Server中虚拟化的应用我更多选择ESXI.
 
