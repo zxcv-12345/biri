@@ -37,5 +37,7 @@
 [![Apple iPhone13](https://img.shields.io/badge/Apple%20iPhone%2013-fd5355?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com.cn/iphone-13/)
 [![Android 12 Phone](https://img.shields.io/badge/Android%2012-6ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.android.com/android-12/)
 
-## 📊 My statistics
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=zxcv-12345&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+## 📈Statistics
+<div align="center">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=zxcv-12345&show_icons=true&include_all_commits=true" />
+</div>
